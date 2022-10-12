@@ -2,7 +2,6 @@ Partiendo del siguiente componente de clase que contempla varios métodos de cic
 
 ```js
 import React, { Component } from 'react'
-import ‘../../styles/clock.scss’;
 
 class Clock extends Component {
    constructor(props) {
@@ -12,8 +11,8 @@ class Clock extends Component {
          // Se genera una fecha como estado inicial del componente
          fecha: new Date(),
          edad: 0,
-         nombre: ‘Martín’,
-         apellidos: ‘San José’
+         nombre: 'Martín',
+         apellidos: 'San José'
       };
    }
    componentDidMount(){
