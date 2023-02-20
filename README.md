@@ -5,4 +5,4 @@
 - Ejercicio 3 -> https://diegoivg98.github.io/Contact-List/
 - Ejercicio 4 -> https://diegoivg98.github.io/Square-RGB/
 - Ejercicio 5 -> https://diegoivg98.github.io/Task-Form/
-- Ejercicio 6 -> https://github.com/diegoivg98/Vite-React-Router
+- Ejercicio 6 -> https://diegoivg98.github.io/Login-Register-Tasks/
