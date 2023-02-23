@@ -6,3 +6,4 @@
 - Ejercicio 4 -> https://diegoivg98.github.io/Square-RGB/
 - Ejercicio 5 -> https://diegoivg98.github.io/Task-Form/
 - Ejercicio 6 -> https://diegoivg98.github.io/Login-Register-Tasks/
+- Ejercicio 7 -> https://diegoivg98.github.io/ChuckNorris-Jokes/
