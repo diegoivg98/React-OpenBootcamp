@@ -7,3 +7,4 @@
 - Ejercicio 5 -> https://diegoivg98.github.io/Task-Form/
 - Ejercicio 6 -> https://diegoivg98.github.io/Login-Register-Tasks/
 - Ejercicio 7 -> https://diegoivg98.github.io/ChuckNorris-Jokes/
+- Ejercicio 8 -> https://github.com/diegoivg98/OB-Redux
